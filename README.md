@@ -22,7 +22,6 @@
 <a href="https://www.behance.net/sachinsharma125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sachinsharma125" height="30" width="40" /></a>
 </p>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devninjasachin&label=Profile%20views&color=0e75b6&style=flat" alt="devninjasachin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devninjasachin" alt="devninjasachin" /></a> </p>
