@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hellosharmasachin@gmail.com**
 
-- 👀 Look My Website 🌎 https://connectwithsachin.000webhostapp.com/ 
+- 👀 Look My Website 🌎 https://nxviewspot.com/ 
   
 - ⚡ Fun fact **I'm Professional Athlete**
 
